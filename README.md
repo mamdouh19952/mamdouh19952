@@ -34,30 +34,30 @@
 
 <table>
   <tr>
-    <td align="center" width="50%">
-      <img src="https://mamdouh19952.github.io/portfolio/images/laravel-600.webp" alt="Route Academy Back-end (PHP & Laravel) diploma certificate" width="420"><br>
+    <td align="center" width="33%">
+      <img src="https://mamdouh19952.github.io/portfolio/images/laravel-600.webp" alt="Route Academy Back-end (PHP & Laravel) diploma certificate" width="280"><br>
       <b>Back-end (PHP &amp; Laravel) Diploma</b><br>
       Route Academy · Top Achiever · Apr 2026
     </td>
-    <td align="center" width="50%">
-      <img src="https://mamdouh19952.github.io/portfolio/images/ai-coder-claude-code-600.webp" alt="AI Coder: Complete Claude Code and Coding Agents certificate" width="420"><br>
-      <b>AI Coder: Claude Code &amp; Coding Agents</b><br>
-      Udemy · Ed Donner · 16.5 hours · Aug 2026
-    </td>
-    <td align="center" width="50%">
-      <img src="https://mamdouh19952.github.io/portfolio/images/front-600.webp" alt="Route Academy Frontend diploma certificate" width="420"><br>
+    <td align="center" width="33%">
+      <img src="https://mamdouh19952.github.io/portfolio/images/front-600.webp" alt="Route Academy Frontend diploma certificate" width="280"><br>
       <b>Frontend (Vue.js) Diploma</b><br>
       Route Academy · Outstanding Performance · Jul 2025
     </td>
+    <td align="center" width="33%">
+      <img src="https://mamdouh19952.github.io/portfolio/images/ai-coder-claude-code-600.webp" alt="AI Coder: Complete Claude Code and Coding Agents certificate" width="280"><br>
+      <b>AI Coder: Claude Code &amp; Agents</b><br>
+      Udemy · Ed Donner · 16.5 hours · Aug 2026
+    </td>
   </tr>
   <tr>
-    <td align="center" width="50%">
-      <img src="https://mamdouh19952.github.io/portfolio/images/code-smarter-with-ai-600.webp" alt="Code Smarter With AI certificate" width="420"><br>
+    <td align="center" width="33%">
+      <img src="https://mamdouh19952.github.io/portfolio/images/code-smarter-with-ai-600.webp" alt="Code Smarter With AI certificate" width="280"><br>
       <b>Code Smarter With AI</b><br>
       Eng. Usama Elgendy · 18 hours · Jul 2026
     </td>
-    <td align="center" width="50%">
-      <img src="https://mamdouh19952.github.io/portfolio/images/claude-arabic-600.webp" alt="Claude AI Masterclass in Arabic certificate" width="420"><br>
+    <td align="center" width="33%">
+      <img src="https://mamdouh19952.github.io/portfolio/images/claude-arabic-600.webp" alt="Claude AI Masterclass in Arabic certificate" width="280"><br>
       <b>Claude AI Masterclass in Arabic</b><br>
       Udemy · 4.5 hours · Jul 2026
     </td>
